@@ -51,15 +51,23 @@ canvas {
 
 .header-right {
     float: right;
+    text-align: center;
 }
 
 .infoPrincipal {
     padding: 0 20px;
     overflow: hidden;
     display: inline-block;
+    text-align: left;
 }
 
 .infoSecundaria {
     padding: 20px 20px;
     font-size: small;
+    padding-top: 10%;
 }
+
+.link { 
+    text-align: center;
+}
+
