@@ -40,7 +40,6 @@ const dataMediaGols ={
     }]
 };
 
-
 const dataGeral = {
     labels: consts.labelsPais,
     datasets: [{

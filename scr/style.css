@@ -3,13 +3,11 @@ body {
     margin: 0%;
 }
 
-
 canvas {
     border: 1px solid gainsboro;
     background-color: white;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
 }
-
 
 .float-child {
     width: 30%;
@@ -70,4 +68,3 @@ canvas {
 .link { 
     text-align: center;
 }
-
